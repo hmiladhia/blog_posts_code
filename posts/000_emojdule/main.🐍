@@ -1,0 +1,8 @@
+import my_module
+
+def main():
+    my_module.hello_world()
+
+
+if __name__ == "__main__":
+    main()
